@@ -38,4 +38,4 @@ OBS: Outras ferramentas e soluções também são bem vindas, desde que funcione
 
 Caso consiga criar o código do provisionamento, ele deverá ser entregue em um repositório git hospedado na núvem (ex: GitHub, GitLab, etc)
 
-Caso contrário deve ser concedido acesso temporário a conta do Challenge na AWS para avaliação.
+Caso contrário deve ser concedido acesso temporário a conta do Challenge na AWS para avaliação, junto com a documentação do trabalho realizado.
