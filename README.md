@@ -5,16 +5,16 @@ O Desafio consiste em provisionar uma infraestrutura na AWS com duas VPCs distin
 Desenvolver uma solução para se comunicar remotamente aos recursos dessas VPCs de forma segura.
 Conhecer e ativar algum serviço que faça monitoração de segurança dessa rede.
 
-##Requisitos:
+## Requisitos:
 
 * Ambiente Cloud(AWS)
 * Infraestrutura básica de rede (firewall, subnets, etc)
 * Documentação detalhada e instruções para execução em ambiente real.
 
-##Diferencial:
+## Diferencial:
 * Automatização do processo de provisionamento do ambiente.
 
-##Tecnologias sugeridas:
+## Tecnologias sugeridas:
 
 Pode-se fazer uso das seguintes tecnologias:
 
@@ -25,7 +25,7 @@ Pode-se fazer uso das seguintes tecnologias:
 
 OBS: Outras ferramentas e soluções também são bem vindas, desde que funcione de forma simples e eficiente.
 
-##Será avaliado:
+## Será avaliado:
 
 * Organização
 * Qualidade da documentação
@@ -34,6 +34,6 @@ OBS: Outras ferramentas e soluções também são bem vindas, desde que funcione
 * Simplicidade e eficiência
 * Técnicas e boas práticas de segurança
 
-##Entrega:
+## Entrega:
 
 O código deverá ser entregue em um repositório git hospedado na núvem(ex: GitHub, GitLab, etc)
