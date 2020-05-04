@@ -1,9 +1,11 @@
 # Hotmart Cloud and Network Security - Challenge
 
-O Desafio consiste em provisionar uma infraestrutura na AWS com duas VPCs distintas, uma instância EC2 em cada subnet segura, permitir que as instancias se comuniquem apenas por PING, nenhum outro tipo tráfego deverá ser permitido.
+O Desafio visa avaliar os conhecimentos do candidato em Cloud e Redes.
 
-Desenvolver ou desenhar uma solução para se comunicar remotamente aos recursos dessas VPCs de forma segura.
-Conhecer e ativar algum serviço que faça monitoração de segurança dessa rede.
+Este trabalho consiste em provisionar uma infraestrutura na AWS (https://aws.amazon.com/free) com duas VPCs distintas, uma instância EC2 em cada subnet segura, permitir que as instancias se comuniquem apenas por PING, nenhum outro tipo tráfego deverá ser permitido.
+
+Desenhar uma solução para se comunicar remotamente aos recursos dessas VPCs de forma segura.
+Conhecer e ativar algum serviço que faça monitoramento ou avaliação de segurança da rede.
 
 ## Requisitos:
 
